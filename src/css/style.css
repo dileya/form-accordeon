@@ -16,6 +16,11 @@ html, body {
     text-align: center;
     white-space: nowrap;
  }
+@media screen and (max-width: 780px) {
+   h3 {
+    white-space: normal;
+   }
+ }
  h4 {
     font-family: Rufina;
     font-style: normal;
